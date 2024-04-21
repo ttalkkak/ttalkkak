@@ -1,4 +1,5 @@
-# Typing practice Website
+# [*](https://ttalkkak.github.io/) Typing practice Website [*](https://ttalkkak.github.io/)
+
 
 ### Project repository of [Luke Oh](https://github.com/owjxyz)
 
