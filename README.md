@@ -1,7 +1,9 @@
-## Typing practice Website
+# Typing practice Website
 
-Project repository of [Luke Oh](https://github.com/owjxyz)
+### Project repository of [Luke Oh](https://github.com/owjxyz)
 
+
+##
 ### References
 #### - Font used: 고운돋움 GowunDodum [(info)](https://noonnu.cc/font_page/734) / 고운바탕 GowunBatang [(info)](https://noonnu.cc/font_page/733)
 
