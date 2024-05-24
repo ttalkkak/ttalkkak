@@ -1,12 +1,10 @@
-# [*](https://ttalkkak.github.io/) Typing practice Website [*](https://ttalkkak.github.io/)
+<div align="center">
+  <a href="https://ttalkkak.github.io/">
+    <img width="200" align="center" alt="ttalkkak" src="https://github.com/ttalkkak/ttalkkak/assets/164509988/c4891bd7-8da2-4cdc-a28d-4233c1410aeb">
+  </a>
+</div>
 
-
-### Project repository of [Luke Oh](https://github.com/owjxyz)
-
-
-##
-### References
-#### - Font used: 고운돋움 GowunDodum [(info)](https://noonnu.cc/font_page/734) / 고운바탕 GowunBatang [(info)](https://noonnu.cc/font_page/733)
+<h1 align="center">Typing practice Website</h1>
 
 
 <!--
