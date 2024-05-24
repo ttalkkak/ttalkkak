@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://ttalkkak.github.io/">
-    <img width="400" align="center" alt="ttalkkak" src="https://github.com/ttalkkak/ttalkkak/assets/164509988/d84acee0-89bd-4931-b67e-f99e565a9e9d">
+    <img width="400" align="center" alt="ttalkkak" src="https://github.com/ttalkkak/ttalkkak/assets/164509988/92bf3d89-5462-41db-9e75-e1b6b12d1b6b">
   </a>
 </div>
 
