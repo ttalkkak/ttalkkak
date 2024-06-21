@@ -1,8 +1,7 @@
 <div align="center">
   <a href="https://ttalkkak.github.io/">
-    <img width="400" align="center" alt="ttalkkak" src="https://github.com/ttalkkak/ttalkkak/assets/164509988/92bf3d89-5462-41db-9e75-e1b6b12d1b6b">
+    <img width="400" alt="ttalkkak" src="https://github.com/ttalkkak/ttalkkak/assets/164509988/92bf3d89-5462-41db-9e75-e1b6b12d1b6b">
   </a>
-  <h1>Typing practice Website</h1>
 </div>
 
 <!--
